@@ -12,7 +12,7 @@ JavaScript / Html / CSS
 ## Benefits of Using JsonPowerDB 
 ### 1)Schema Free
 ### 2) Low development Cost
-### 3) Severless
+### 3) Serverless
 ### 4) No SQL
 ### 5) Time efficient
 
