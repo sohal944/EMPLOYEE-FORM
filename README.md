@@ -1,7 +1,7 @@
-# EMPLOYEE-FORM
+# STUDENT-FORM
 JavaScript / Html / CSS
 
-# **Welcome to the EMPLOYEE-FORM !**
+# **Welcome to the STUDENT-FORM !**
 
 
 # Form Preview ![Form Preview](https://i.postimg.cc/xTb1Xj64/form.jpg)
